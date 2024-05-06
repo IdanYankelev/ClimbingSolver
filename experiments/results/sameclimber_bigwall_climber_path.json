@@ -1,0 +1,1352 @@
+[
+  {
+    "left_arm": {
+      "hand_position": [
+        1,
+        7
+      ],
+      "shoulder_position": [
+        3.0,
+        5.5
+      ]
+    },
+    "right_arm": {
+      "hand_position": [
+        5,
+        7
+      ],
+      "shoulder_position": [
+        5.0,
+        5.5
+      ]
+    },
+    "left_leg": {
+      "foot_position": [
+        3,
+        1
+      ],
+      "knee_position": [
+        2.0,
+        2.75
+      ],
+      "hip_position": [
+        3,
+        4
+      ]
+    },
+    "right_leg": {
+      "foot_position": [
+        5,
+        1
+      ],
+      "knee_position": [
+        6.0,
+        2.75
+      ],
+      "hip_position": [
+        5,
+        4
+      ]
+    }
+  },
+  {
+    "left_arm": {
+      "hand_position": [
+        1,
+        7
+      ],
+      "shoulder_position": [
+        3.0,
+        5.5
+      ]
+    },
+    "right_arm": {
+      "hand_position": [
+        5,
+        7
+      ],
+      "shoulder_position": [
+        5.0,
+        5.5
+      ]
+    },
+    "left_leg": {
+      "foot_position": [
+        3,
+        1
+      ],
+      "knee_position": [
+        2.0,
+        2.75
+      ],
+      "hip_position": [
+        3,
+        4
+      ]
+    },
+    "right_leg": {
+      "foot_position": [
+        7,
+        1
+      ],
+      "knee_position": [
+        5.999999999999999,
+        2.7499999999999987
+      ],
+      "hip_position": [
+        5,
+        4
+      ]
+    }
+  },
+  {
+    "left_arm": {
+      "hand_position": [
+        5,
+        7
+      ],
+      "shoulder_position": [
+        4.0,
+        5.97533519959876
+      ]
+    },
+    "right_arm": {
+      "hand_position": [
+        5,
+        7
+      ],
+      "shoulder_position": [
+        6.0,
+        5.97533519959876
+      ]
+    },
+    "left_leg": {
+      "foot_position": [
+        7,
+        4
+      ],
+      "knee_position": [
+        5.408254571425502,
+        5.236465321233146
+      ],
+      "hip_position": [
+        4.0,
+        4.47533519959876
+      ]
+    },
+    "right_leg": {
+      "foot_position": [
+        7,
+        1
+      ],
+      "knee_position": [
+        6.4426515831900515,
+        2.9369725713802564
+      ],
+      "hip_position": [
+        6.0,
+        4.47533519959876
+      ]
+    }
+  },
+  {
+    "left_arm": {
+      "hand_position": [
+        5,
+        7
+      ],
+      "shoulder_position": [
+        5.040585489117721,
+        5.555697101850794
+      ]
+    },
+    "right_arm": {
+      "hand_position": [
+        5,
+        7
+      ],
+      "shoulder_position": [
+        7.040585489117721,
+        5.555697101850795
+      ]
+    },
+    "left_leg": {
+      "foot_position": [
+        7,
+        4
+      ],
+      "knee_position": [
+        5.680031700553779,
+        5.5232149186694075
+      ],
+      "hip_position": [
+        5.040585489117721,
+        4.055697101850794
+      ]
+    },
+    "right_leg": {
+      "foot_position": [
+        10,
+        4
+      ],
+      "knee_position": [
+        8.286308838622903,
+        5.061019605576638
+      ],
+      "hip_position": [
+        7.040585489117721,
+        4.055697101850795
+      ]
+    }
+  },
+  {
+    "left_arm": {
+      "hand_position": [
+        7,
+        7
+      ],
+      "shoulder_position": [
+        5.040585489117721,
+        5.555697101850794
+      ]
+    },
+    "right_arm": {
+      "hand_position": [
+        5,
+        7
+      ],
+      "shoulder_position": [
+        7.040585489117721,
+        5.555697101850795
+      ]
+    },
+    "left_leg": {
+      "foot_position": [
+        7,
+        4
+      ],
+      "knee_position": [
+        5.680031700553779,
+        5.5232149186694075
+      ],
+      "hip_position": [
+        5.040585489117721,
+        4.055697101850794
+      ]
+    },
+    "right_leg": {
+      "foot_position": [
+        10,
+        4
+      ],
+      "knee_position": [
+        8.286308838622903,
+        5.061019605576638
+      ],
+      "hip_position": [
+        7.040585489117721,
+        4.055697101850795
+      ]
+    }
+  },
+  {
+    "left_arm": {
+      "hand_position": [
+        7,
+        7
+      ],
+      "shoulder_position": [
+        7.5,
+        9.081613428270861
+      ]
+    },
+    "right_arm": {
+      "hand_position": [
+        10,
+        10
+      ],
+      "shoulder_position": [
+        9.5,
+        9.081613428270861
+      ]
+    },
+    "left_leg": {
+      "foot_position": [
+        7,
+        4
+      ],
+      "knee_position": [
+        7.278674208404975,
+        5.996206573872017
+      ],
+      "hip_position": [
+        7.5,
+        7.581613428270861
+      ]
+    },
+    "right_leg": {
+      "foot_position": [
+        10,
+        4
+      ],
+      "knee_position": [
+        9.721325791595026,
+        5.996206573872017
+      ],
+      "hip_position": [
+        9.5,
+        7.581613428270861
+      ]
+    }
+  },
+  {
+    "left_arm": {
+      "hand_position": [
+        7,
+        7
+      ],
+      "shoulder_position": [
+        7.5,
+        9.081613428270861
+      ]
+    },
+    "right_arm": {
+      "hand_position": [
+        10,
+        10
+      ],
+      "shoulder_position": [
+        9.5,
+        9.081613428270861
+      ]
+    },
+    "left_leg": {
+      "foot_position": [
+        7,
+        4
+      ],
+      "knee_position": [
+        7.278674208404975,
+        5.996206573872017
+      ],
+      "hip_position": [
+        7.5,
+        7.581613428270861
+      ]
+    },
+    "right_leg": {
+      "foot_position": [
+        13,
+        7
+      ],
+      "knee_position": [
+        11.098435170480887,
+        7.668244864653625
+      ],
+      "hip_position": [
+        9.5,
+        7.581613428270861
+      ]
+    }
+  },
+  {
+    "left_arm": {
+      "hand_position": [
+        7,
+        7
+      ],
+      "shoulder_position": [
+        7.5,
+        9.081613428270861
+      ]
+    },
+    "right_arm": {
+      "hand_position": [
+        10,
+        10
+      ],
+      "shoulder_position": [
+        9.5,
+        9.081613428270861
+      ]
+    },
+    "left_leg": {
+      "foot_position": [
+        10,
+        7
+      ],
+      "knee_position": [
+        8.750232560900098,
+        8.581322657829727
+      ],
+      "hip_position": [
+        7.5,
+        7.581613428270861
+      ]
+    },
+    "right_leg": {
+      "foot_position": [
+        13,
+        7
+      ],
+      "knee_position": [
+        11.098435170480887,
+        7.668244864653625
+      ],
+      "hip_position": [
+        9.5,
+        7.581613428270861
+      ]
+    }
+  },
+  {
+    "left_arm": {
+      "hand_position": [
+        7,
+        7
+      ],
+      "shoulder_position": [
+        7.5,
+        9.081613428270861
+      ]
+    },
+    "right_arm": {
+      "hand_position": [
+        10,
+        10
+      ],
+      "shoulder_position": [
+        9.5,
+        9.081613428270861
+      ]
+    },
+    "left_leg": {
+      "foot_position": [
+        7,
+        7
+      ],
+      "knee_position": [
+        6.760347507732266,
+        9.001266269877615
+      ],
+      "hip_position": [
+        7.5,
+        7.581613428270861
+      ]
+    },
+    "right_leg": {
+      "foot_position": [
+        13,
+        7
+      ],
+      "knee_position": [
+        11.098435170480887,
+        7.668244864653625
+      ],
+      "hip_position": [
+        9.5,
+        7.581613428270861
+      ]
+    }
+  },
+  {
+    "left_arm": {
+      "hand_position": [
+        10,
+        10
+      ],
+      "shoulder_position": [
+        9.0,
+        11.512964445454037
+      ]
+    },
+    "right_arm": {
+      "hand_position": [
+        10,
+        10
+      ],
+      "shoulder_position": [
+        11.0,
+        11.512964445454037
+      ]
+    },
+    "left_leg": {
+      "foot_position": [
+        10,
+        7
+      ],
+      "knee_position": [
+        10.24047093391013,
+        9.00116809137673
+      ],
+      "hip_position": [
+        9.0,
+        10.012964445454037
+      ]
+    },
+    "right_leg": {
+      "foot_position": [
+        13,
+        7
+      ],
+      "knee_position": [
+        11.885303166380103,
+        8.679270963578473
+      ],
+      "hip_position": [
+        11.0,
+        10.012964445454037
+      ]
+    }
+  },
+  {
+    "left_arm": {
+      "hand_position": [
+        10,
+        10
+      ],
+      "shoulder_position": [
+        9.0,
+        11.512964445454037
+      ]
+    },
+    "right_arm": {
+      "hand_position": [
+        13,
+        13
+      ],
+      "shoulder_position": [
+        11.0,
+        11.512964445454037
+      ]
+    },
+    "left_leg": {
+      "foot_position": [
+        10,
+        7
+      ],
+      "knee_position": [
+        10.24047093391013,
+        9.00116809137673
+      ],
+      "hip_position": [
+        9.0,
+        10.012964445454037
+      ]
+    },
+    "right_leg": {
+      "foot_position": [
+        13,
+        7
+      ],
+      "knee_position": [
+        11.885303166380103,
+        8.679270963578473
+      ],
+      "hip_position": [
+        11.0,
+        10.012964445454037
+      ]
+    }
+  },
+  {
+    "left_arm": {
+      "hand_position": [
+        10,
+        10
+      ],
+      "shoulder_position": [
+        10.5,
+        12.08161342827086
+      ]
+    },
+    "right_arm": {
+      "hand_position": [
+        13,
+        13
+      ],
+      "shoulder_position": [
+        12.5,
+        12.08161342827086
+      ]
+    },
+    "left_leg": {
+      "foot_position": [
+        10,
+        7
+      ],
+      "knee_position": [
+        10.278674208404974,
+        8.996206573872016
+      ],
+      "hip_position": [
+        10.5,
+        10.58161342827086
+      ]
+    },
+    "right_leg": {
+      "foot_position": [
+        16,
+        10
+      ],
+      "knee_position": [
+        14.098435170480887,
+        10.668244864653621
+      ],
+      "hip_position": [
+        12.5,
+        10.58161342827086
+      ]
+    }
+  },
+  {
+    "left_arm": {
+      "hand_position": [
+        10,
+        10
+      ],
+      "shoulder_position": [
+        10.5,
+        12.08161342827086
+      ]
+    },
+    "right_arm": {
+      "hand_position": [
+        13,
+        13
+      ],
+      "shoulder_position": [
+        12.5,
+        12.08161342827086
+      ]
+    },
+    "left_leg": {
+      "foot_position": [
+        10,
+        10
+      ],
+      "knee_position": [
+        9.760347507732263,
+        12.001266269877611
+      ],
+      "hip_position": [
+        10.5,
+        10.58161342827086
+      ]
+    },
+    "right_leg": {
+      "foot_position": [
+        16,
+        10
+      ],
+      "knee_position": [
+        14.098435170480887,
+        10.668244864653621
+      ],
+      "hip_position": [
+        12.5,
+        10.58161342827086
+      ]
+    }
+  },
+  {
+    "left_arm": {
+      "hand_position": [
+        13,
+        13
+      ],
+      "shoulder_position": [
+        12.0,
+        14.512964445454037
+      ]
+    },
+    "right_arm": {
+      "hand_position": [
+        13,
+        13
+      ],
+      "shoulder_position": [
+        14.0,
+        14.512964445454037
+      ]
+    },
+    "left_leg": {
+      "foot_position": [
+        13,
+        10
+      ],
+      "knee_position": [
+        13.240470933910132,
+        12.001168091376726
+      ],
+      "hip_position": [
+        12.0,
+        13.012964445454037
+      ]
+    },
+    "right_leg": {
+      "foot_position": [
+        16,
+        10
+      ],
+      "knee_position": [
+        14.885303166380105,
+        11.679270963578471
+      ],
+      "hip_position": [
+        14.0,
+        13.012964445454037
+      ]
+    }
+  },
+  {
+    "left_arm": {
+      "hand_position": [
+        13,
+        13
+      ],
+      "shoulder_position": [
+        12.0,
+        14.512964445454037
+      ]
+    },
+    "right_arm": {
+      "hand_position": [
+        13,
+        13
+      ],
+      "shoulder_position": [
+        14.0,
+        14.512964445454037
+      ]
+    },
+    "left_leg": {
+      "foot_position": [
+        13,
+        10
+      ],
+      "knee_position": [
+        13.240470933910132,
+        12.001168091376726
+      ],
+      "hip_position": [
+        12.0,
+        13.012964445454037
+      ]
+    },
+    "right_leg": {
+      "foot_position": [
+        16,
+        13
+      ],
+      "knee_position": [
+        14.634568511282911,
+        14.482598006750251
+      ],
+      "hip_position": [
+        14.0,
+        13.012964445454037
+      ]
+    }
+  },
+  {
+    "left_arm": {
+      "hand_position": [
+        13,
+        13
+      ],
+      "shoulder_position": [
+        12.0,
+        14.512964445454037
+      ]
+    },
+    "right_arm": {
+      "hand_position": [
+        13,
+        13
+      ],
+      "shoulder_position": [
+        14.0,
+        14.512964445454037
+      ]
+    },
+    "left_leg": {
+      "foot_position": [
+        13,
+        13
+      ],
+      "knee_position": [
+        11.770623117365918,
+        14.59722649628814
+      ],
+      "hip_position": [
+        12.0,
+        13.012964445454037
+      ]
+    },
+    "right_leg": {
+      "foot_position": [
+        16,
+        13
+      ],
+      "knee_position": [
+        14.634568511282911,
+        14.482598006750251
+      ],
+      "hip_position": [
+        14.0,
+        13.012964445454037
+      ]
+    }
+  },
+  {
+    "left_arm": {
+      "hand_position": [
+        13,
+        16
+      ],
+      "shoulder_position": [
+        12.0,
+        14.512964445454037
+      ]
+    },
+    "right_arm": {
+      "hand_position": [
+        13,
+        13
+      ],
+      "shoulder_position": [
+        14.0,
+        14.512964445454037
+      ]
+    },
+    "left_leg": {
+      "foot_position": [
+        13,
+        13
+      ],
+      "knee_position": [
+        11.770623117365918,
+        14.59722649628814
+      ],
+      "hip_position": [
+        12.0,
+        13.012964445454037
+      ]
+    },
+    "right_leg": {
+      "foot_position": [
+        16,
+        13
+      ],
+      "knee_position": [
+        14.634568511282911,
+        14.482598006750251
+      ],
+      "hip_position": [
+        14.0,
+        13.012964445454037
+      ]
+    }
+  },
+  {
+    "left_arm": {
+      "hand_position": [
+        13,
+        16
+      ],
+      "shoulder_position": [
+        13.5,
+        18.08161342827086
+      ]
+    },
+    "right_arm": {
+      "hand_position": [
+        16,
+        19
+      ],
+      "shoulder_position": [
+        15.5,
+        18.08161342827086
+      ]
+    },
+    "left_leg": {
+      "foot_position": [
+        13,
+        13
+      ],
+      "knee_position": [
+        13.278674208404974,
+        14.996206573872014
+      ],
+      "hip_position": [
+        13.5,
+        16.58161342827086
+      ]
+    },
+    "right_leg": {
+      "foot_position": [
+        16,
+        13
+      ],
+      "knee_position": [
+        15.721325791595026,
+        14.996206573872014
+      ],
+      "hip_position": [
+        15.5,
+        16.58161342827086
+      ]
+    }
+  },
+  {
+    "left_arm": {
+      "hand_position": [
+        13,
+        16
+      ],
+      "shoulder_position": [
+        13.5,
+        18.08161342827086
+      ]
+    },
+    "right_arm": {
+      "hand_position": [
+        16,
+        19
+      ],
+      "shoulder_position": [
+        15.5,
+        18.08161342827086
+      ]
+    },
+    "left_leg": {
+      "foot_position": [
+        13,
+        13
+      ],
+      "knee_position": [
+        13.278674208404974,
+        14.996206573872014
+      ],
+      "hip_position": [
+        13.5,
+        16.58161342827086
+      ]
+    },
+    "right_leg": {
+      "foot_position": [
+        19,
+        16
+      ],
+      "knee_position": [
+        17.09843517048089,
+        16.66824486465362
+      ],
+      "hip_position": [
+        15.5,
+        16.58161342827086
+      ]
+    }
+  },
+  {
+    "left_arm": {
+      "hand_position": [
+        13,
+        16
+      ],
+      "shoulder_position": [
+        13.5,
+        18.08161342827086
+      ]
+    },
+    "right_arm": {
+      "hand_position": [
+        16,
+        19
+      ],
+      "shoulder_position": [
+        15.5,
+        18.08161342827086
+      ]
+    },
+    "left_leg": {
+      "foot_position": [
+        13,
+        16
+      ],
+      "knee_position": [
+        12.760347507732252,
+        18.001266269877608
+      ],
+      "hip_position": [
+        13.5,
+        16.58161342827086
+      ]
+    },
+    "right_leg": {
+      "foot_position": [
+        19,
+        16
+      ],
+      "knee_position": [
+        17.09843517048089,
+        16.66824486465362
+      ],
+      "hip_position": [
+        15.5,
+        16.58161342827086
+      ]
+    }
+  },
+  {
+    "left_arm": {
+      "hand_position": [
+        16,
+        22
+      ],
+      "shoulder_position": [
+        15.0,
+        20.512964445454035
+      ]
+    },
+    "right_arm": {
+      "hand_position": [
+        16,
+        19
+      ],
+      "shoulder_position": [
+        17.0,
+        20.512964445454035
+      ]
+    },
+    "left_leg": {
+      "foot_position": [
+        13,
+        16
+      ],
+      "knee_position": [
+        14.114696833619895,
+        17.679270963578468
+      ],
+      "hip_position": [
+        15.0,
+        19.012964445454035
+      ]
+    },
+    "right_leg": {
+      "foot_position": [
+        19,
+        16
+      ],
+      "knee_position": [
+        17.885303166380105,
+        17.679270963578468
+      ],
+      "hip_position": [
+        17.0,
+        19.012964445454035
+      ]
+    }
+  },
+  {
+    "left_arm": {
+      "hand_position": [
+        16,
+        22
+      ],
+      "shoulder_position": [
+        15.0,
+        20.512964445454035
+      ]
+    },
+    "right_arm": {
+      "hand_position": [
+        16,
+        19
+      ],
+      "shoulder_position": [
+        17.0,
+        20.512964445454035
+      ]
+    },
+    "left_leg": {
+      "foot_position": [
+        16,
+        16
+      ],
+      "knee_position": [
+        16.24047093391013,
+        18.001168091376723
+      ],
+      "hip_position": [
+        15.0,
+        19.012964445454035
+      ]
+    },
+    "right_leg": {
+      "foot_position": [
+        19,
+        16
+      ],
+      "knee_position": [
+        17.885303166380105,
+        17.679270963578468
+      ],
+      "hip_position": [
+        17.0,
+        19.012964445454035
+      ]
+    }
+  },
+  {
+    "left_arm": {
+      "hand_position": [
+        16,
+        22
+      ],
+      "shoulder_position": [
+        15.0,
+        20.512964445454035
+      ]
+    },
+    "right_arm": {
+      "hand_position": [
+        16,
+        19
+      ],
+      "shoulder_position": [
+        17.0,
+        20.512964445454035
+      ]
+    },
+    "left_leg": {
+      "foot_position": [
+        16,
+        16
+      ],
+      "knee_position": [
+        16.24047093391013,
+        18.001168091376723
+      ],
+      "hip_position": [
+        15.0,
+        19.012964445454035
+      ]
+    },
+    "right_leg": {
+      "foot_position": [
+        19,
+        19
+      ],
+      "knee_position": [
+        17.634568511282914,
+        20.48259800675025
+      ],
+      "hip_position": [
+        17.0,
+        19.012964445454035
+      ]
+    }
+  },
+  {
+    "left_arm": {
+      "hand_position": [
+        16,
+        22
+      ],
+      "shoulder_position": [
+        15.0,
+        20.512964445454035
+      ]
+    },
+    "right_arm": {
+      "hand_position": [
+        16,
+        19
+      ],
+      "shoulder_position": [
+        17.0,
+        20.512964445454035
+      ]
+    },
+    "left_leg": {
+      "foot_position": [
+        16,
+        19
+      ],
+      "knee_position": [
+        14.770623117365925,
+        20.59722649628814
+      ],
+      "hip_position": [
+        15.0,
+        19.012964445454035
+      ]
+    },
+    "right_leg": {
+      "foot_position": [
+        19,
+        19
+      ],
+      "knee_position": [
+        17.634568511282914,
+        20.48259800675025
+      ],
+      "hip_position": [
+        17.0,
+        19.012964445454035
+      ]
+    }
+  },
+  {
+    "left_arm": {
+      "hand_position": [
+        16,
+        22
+      ],
+      "shoulder_position": [
+        16.5,
+        24.08161342827086
+      ]
+    },
+    "right_arm": {
+      "hand_position": [
+        19,
+        25
+      ],
+      "shoulder_position": [
+        18.5,
+        24.08161342827086
+      ]
+    },
+    "left_leg": {
+      "foot_position": [
+        16,
+        19
+      ],
+      "knee_position": [
+        16.278674208404972,
+        20.99620657387201
+      ],
+      "hip_position": [
+        16.5,
+        22.58161342827086
+      ]
+    },
+    "right_leg": {
+      "foot_position": [
+        19,
+        19
+      ],
+      "knee_position": [
+        18.721325791595028,
+        20.99620657387201
+      ],
+      "hip_position": [
+        18.5,
+        22.58161342827086
+      ]
+    }
+  },
+  {
+    "left_arm": {
+      "hand_position": [
+        16,
+        25
+      ],
+      "shoulder_position": [
+        16.5,
+        24.08161342827086
+      ]
+    },
+    "right_arm": {
+      "hand_position": [
+        19,
+        25
+      ],
+      "shoulder_position": [
+        18.5,
+        24.08161342827086
+      ]
+    },
+    "left_leg": {
+      "foot_position": [
+        16,
+        19
+      ],
+      "knee_position": [
+        16.278674208404972,
+        20.99620657387201
+      ],
+      "hip_position": [
+        16.5,
+        22.58161342827086
+      ]
+    },
+    "right_leg": {
+      "foot_position": [
+        19,
+        19
+      ],
+      "knee_position": [
+        18.721325791595028,
+        20.99620657387201
+      ],
+      "hip_position": [
+        18.5,
+        22.58161342827086
+      ]
+    }
+  },
+  {
+    "left_arm": {
+      "hand_position": [
+        19,
+        25
+      ],
+      "shoulder_position": [
+        17.82274086729169,
+        23.288972317376263
+      ]
+    },
+    "right_arm": {
+      "hand_position": [
+        19,
+        25
+      ],
+      "shoulder_position": [
+        19.82274086729169,
+        23.288972317376263
+      ]
+    },
+    "left_leg": {
+      "foot_position": [
+        16,
+        19
+      ],
+      "knee_position": [
+        16.45057526948549,
+        20.96455641978744
+      ],
+      "hip_position": [
+        17.82274086729169,
+        21.788972317376263
+      ]
+    },
+    "right_leg": {
+      "foot_position": [
+        19,
+        19
+      ],
+      "knee_position": [
+        18.46380075602188,
+        20.942933444757504
+      ],
+      "hip_position": [
+        19.82274086729169,
+        21.788972317376263
+      ]
+    }
+  }
+]
