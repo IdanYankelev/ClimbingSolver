@@ -7,3 +7,7 @@ The Climbing Path Optimizer is a sophisticated tool designed to assist climbers 
 Advanced Pathfinding: Utilizes the A* algorithm to ensure the most efficient path is chosen, taking into account various factors.
 STRIP Planning Integration: Incorporates STRIP planning to generate a logical sequence of moves, ensuring each step is feasible and contributes to the overall goal of reaching the top.
 Visual Path Representation: Offers a visual representation of the chosen path, making it easier to understand and follow in real-life applications.
+
+
+https://github.com/Galhadarr/Research-ClimbingSolver/assets/71820033/8c49de9f-abb4-45de-b49b-557b86cf735f
+
